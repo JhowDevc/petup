@@ -1,4 +1,4 @@
-# PetFinder - Sistema de Gerenciamento e Busca de Pets
+# PetUp - Sistema de Gerenciamento e Busca de Pets
 
 Bem-vindo ao **PetFinder**, um sistema composto por três APIs integradas para autenticação de usuários, gerenciamento de informações de pets e busca avançada de pets perdidos por similaridade de imagem. Este projeto utiliza tecnologias modernas em Java (Spring Boot) e Python (Flask), combinando autenticação segura, persistência de dados e visão computacional.
 
