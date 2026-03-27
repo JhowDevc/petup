@@ -13,10 +13,10 @@ import cv2
 # Configuração
 class Config:
     MYSQL_CONFIG = {
-        'user': 'petuptemporar1',
-        'password': 'boC#it9Uchlco8',
-        'host': 'petuptemporar1.mysql.dbaas.com.br',
-        'database': 'petuptemporar1'
+        'user': '',
+        'password': '',
+        'host': '',
+        'database': ''
     }
     CLIP_MODEL = 'ViT-L-14'
     CLIP_PRETRAINED = 'openai'
